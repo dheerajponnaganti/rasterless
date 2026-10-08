@@ -1,0 +1,4 @@
+potracer 0.0.4 by Tatarize, a pure-Python port of Potrace by Peter Selinger.
+Source: https://github.com/tatarize/potrace
+License: GPLv2 or later (see LICENSE). Bundled unmodified so the skill runs
+in sandboxes that cannot install packages. An installed potracer takes precedence.

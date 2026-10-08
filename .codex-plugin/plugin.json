@@ -1,0 +1,51 @@
+{
+  "name": "rasterless",
+  "version": "0.1.0",
+  "description": "PNG to SVG with AI. Turns PNG, JPG, and WebP icons, logos, and flat art into small, clean SVG files, plus a shaded mode for grayscale 3D art.",
+  "author": {
+    "name": "Dheeraj Ponnaganti",
+    "url": "https://github.com/dheerajponnaganti"
+  },
+  "homepage": "https://github.com/dheerajponnaganti/rasterless",
+  "repository": "https://github.com/dheerajponnaganti/rasterless",
+  "license": "MIT AND GPL-2.0-or-later",
+  "keywords": [
+    "png-to-svg",
+    "image-to-svg",
+    "svg",
+    "vectorize",
+    "vectorizer",
+    "ai",
+    "icons",
+    "logos",
+    "potrace",
+    "trace",
+    "agent-skill",
+    "codex"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Rasterless",
+    "shortDescription": "PNG to SVG with AI",
+    "longDescription": "Turns PNG, JPG, and WebP icons, logos, and flat art into small, clean SVG files with one path per color. Each result is rendered back and compared with the original, so you see how close it is. A shaded mode handles grayscale 3D art. Runs locally on your files and sends nothing anywhere.",
+    "developerName": "Dheeraj Ponnaganti",
+    "category": "Creativity",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/dheerajponnaganti/rasterless",
+    "supportURL": "https://github.com/dheerajponnaganti/rasterless/issues",
+    "privacyPolicyURL": "https://github.com/dheerajponnaganti/rasterless/blob/main/PRIVACY.md",
+    "termsOfServiceURL": "https://github.com/dheerajponnaganti/rasterless/blob/main/LICENSE",
+    "defaultPrompt": [
+      "Convert this PNG icon to SVG",
+      "Turn this logo into a clean SVG",
+      "Convert every PNG in this folder to SVG"
+    ],
+    "brandColor": "#FF6B4A",
+    "composerIcon": "./assets/logo-512.png",
+    "logo": "./assets/logo-512.png",
+    "screenshots": []
+  }
+}

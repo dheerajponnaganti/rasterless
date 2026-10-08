@@ -1,0 +1,28 @@
+{
+  "name": "rasterless",
+  "version": "0.1.0",
+  "description": "PNG to SVG with AI. Turns PNG, JPG, and WebP icons, logos, and flat art into small, clean SVG files, plus a shaded mode for grayscale 3D art.",
+  "author": {
+    "name": "Dheeraj Ponnaganti",
+    "email": "dheerajponnaganti@gmail.com"
+  },
+  "homepage": "https://github.com/dheerajponnaganti/rasterless",
+  "repository": "https://github.com/dheerajponnaganti/rasterless",
+  "license": "MIT AND GPL-2.0-or-later",
+  "keywords": [
+    "png-to-svg",
+    "image-to-svg",
+    "svg",
+    "vectorize",
+    "vectorizer",
+    "ai",
+    "icons",
+    "logos",
+    "potrace",
+    "trace",
+    "agent-skill",
+    "chatgpt",
+    "cursor"
+  ],
+  "logo": "assets/logo.svg"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "dheeraj-skills",
+  "description": "Agent skills by Dheeraj Ponnaganti.",
+  "owner": {
+    "name": "Dheeraj Ponnaganti"
+  },
+  "plugins": [
+    {
+      "name": "rasterless",
+      "source": "./",
+      "description": "PNG to SVG with AI: icons, logos, and flat art into small, clean SVG files."
+    }
+  ]
+}

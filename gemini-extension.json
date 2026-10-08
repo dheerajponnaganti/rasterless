@@ -1,0 +1,5 @@
+{
+  "name": "rasterless",
+  "version": "0.1.0",
+  "description": "PNG to SVG with AI. Turns PNG, JPG, and WebP icons, logos, and flat art into small, clean SVG files, plus a shaded mode for grayscale 3D art."
+}

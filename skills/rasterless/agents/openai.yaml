@@ -1,0 +1,7 @@
+interface:
+  display_name: Rasterless
+  short_description: PNG to SVG with AI. Icons, logos, and flat art into small, clean SVG files.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  allow_implicit_invocation: true
